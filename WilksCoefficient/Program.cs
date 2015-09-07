@@ -10,7 +10,6 @@ namespace WilksCoefficient
     {
         static void Main(string[] args)
         {
-            syntax error!!!1
         }
     }
 }

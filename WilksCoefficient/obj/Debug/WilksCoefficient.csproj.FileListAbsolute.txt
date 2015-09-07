@@ -7,3 +7,6 @@
 C:\WilksCoefficient\WilksCoefficient\bin\Debug\WilksCoefficient.exe.config
 C:\WilksCoefficient\WilksCoefficient\obj\Debug\WilksCoefficient.exe
 C:\WilksCoefficient\WilksCoefficient\obj\Debug\WilksCoefficient.pdb
+C:\WilksCoefficient\WilksCoefficient\bin\Debug\WilksCoefficient.exe
+C:\WilksCoefficient\WilksCoefficient\bin\Debug\WilksCoefficient.pdb
+C:\WilksCoefficient\WilksCoefficient\obj\Debug\WilksCoefficient.csprojResolveAssemblyReference.cache
