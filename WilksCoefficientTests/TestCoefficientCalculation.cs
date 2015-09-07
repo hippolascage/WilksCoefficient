@@ -43,7 +43,7 @@ namespace WilksCoefficient.Tests
         }
 
         // - this test will fail - see what teamcity does
-        /*
+        
         [TestMethod]
         public void TestCalc_YngvarChristensen()
         {
@@ -52,7 +52,7 @@ namespace WilksCoefficient.Tests
             var actualScore = wilksCoefficient.GetScore();
             Assert.AreEqual(expectedScore, actualScore);
         }
-        */ 
+         
         
     }
 }
