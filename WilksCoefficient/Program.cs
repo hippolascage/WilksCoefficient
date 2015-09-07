@@ -10,7 +10,6 @@ namespace WilksCoefficient
     {
         static void Main(string[] args)
         {
-            this code won't build
         }
     }
 }
