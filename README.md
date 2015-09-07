@@ -1,3 +1,1 @@
 # WilksCoefficient
-
-Readme
